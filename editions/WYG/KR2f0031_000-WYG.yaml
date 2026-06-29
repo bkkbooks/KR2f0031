@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2f0031/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部六
+  hash: sha256:5f60e64555bb05171f88ef93eab5b1c285f44f3268a9880b3cbd1f2ca80456fa
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2f0031_WYG_000-1a, image: WYG0430/WYG0430-0189a.png}
+body:
+  text: 兩河經畧詔令奏議𩔖二奏議之屬提要臣等謹案兩河經畧四巻明潘季馴撰萬歴初河決高家堰淮揚高寶皆為巨浸季馴建議築隄疏淤論水勢之強弱復黄河之故道條上六事詔如議行書中所載皆其時相度南北兩河奏疏首冠以圖末附書一通不著所上者為何人書中有奉大司空之教親往閲視之語考是時工部尚書李幼滋始終主張其事殆即其人歟季馴先後總河務二十七年晚輯河防一覽其大㫖在以隄束水以水刷沙卒以此奏功此集所載諸疏並規度形勢利弊分明足以見一時施工之次第與所作河防一覽均為有禆實用之言不但補史志之疎畧備圖之考證已也乾隆四十六年十一月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:6ccb7ffc103d333a413a81b8e5369ef972ff15a191f09d610bbf7d4490613864
+metadata:
+  title: 兩河經略
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:33:10.746793'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2f0031/KR2f0031_000.txt
+hash: sha256:dd0fbe548cb4871aea754d7973a48921bba2858d92c5141db85fe78a2a8bfdbb
